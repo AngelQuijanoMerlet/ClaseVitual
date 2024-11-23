@@ -107,22 +107,22 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 20,
     fontWeight: 'bold',
-    marginVertical: 6, // Menor separación del título
+    marginVertical: 6, 
     color: '#333',
   },
   description: {
     fontSize: 14,
     color: '#555',
-    marginBottom: 10, // Menor separación respecto a los datos del evento
+    marginBottom: 10, 
     textAlign: 'justify',
   },
   eventInfo: {
-    marginTop: 8, // Menor separación respecto a la descripción
+    marginTop: 8, 
   },
   eventRow: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginBottom: 2, // Reduce el espacio entre filas del evento
+    marginBottom: 2, 
   },
   eventLabel: {
     fontSize: 14,
@@ -146,7 +146,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   footerText: {
-    marginTop: 16, // Separación del botón ajustada
+    marginTop: 16, 
     fontSize: 13,
     color: '#777',
     textAlign: 'center',
