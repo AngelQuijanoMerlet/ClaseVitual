@@ -2,8 +2,8 @@ import React from 'react';
 import { View, Text, Image, StyleSheet, TouchableOpacity } from 'react-native';
 
 // Importar imágenes locales
-import badBunnyImage from './assets/BadBunny.jpg'; // Imagen de Bad Bunny
-import logoCool from './assets/Cool.jpg';   // Logo de La Cool 89.3 FM
+import badBunnyImage from './assets/BadBunny.jpg'; 
+import logoCool from './assets/Cool.jpg';   
 
 export default function BadBunny() {
   return (
